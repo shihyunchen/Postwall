@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary">#ffffff</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="theme_orange">#423e3b</color>
@@ -8,4 +8,5 @@
     <color name="D37991">#d37991</color>
     <color name="D04E71">#d04e71</color>
     <color name="E28EA5">#e28ea5</color>
+    <color name="background_material_light">#f5f5f5</color>
 </resources>
